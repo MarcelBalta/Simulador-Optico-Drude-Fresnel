@@ -1,5 +1,5 @@
 # Simulador-Optico-Drude-Fresnel
-Interfaz de simulación que implemente el modelo de Drude-Lorentz para metales y dieléctricos calculando la constante dieléctrica, el índice de refracción y todos los coeficientes de Fresnel.
+Interfaz de simulación de desarrollo propio que implementa el modelo de Drude-Lorentz para metales y dieléctricos calculando la constante dieléctrica, el índice de refracción y todos los coeficientes de Fresnel.
 
 Al ejecutar el archivo .m se muestra una interfaz para intorducir los ficheros .txt con los datos necesarios así como el tipo de material y los parámetros de simulación (ángulos de incidencia, longitudes de onda, span, etc.)
 
